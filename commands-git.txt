@@ -1,0 +1,6 @@
+Commandes git :
+Clone : git clone + lien copié
+Push : git push
+Add : git add + dossier/ ou fichier
+Commit : git commit + fichier ou dossier/
+	 git commit -m "message"
