@@ -4,3 +4,4 @@ Push : git push
 Add : git add + dossier/ ou fichier
 Commit : git commit + fichier ou dossier/
 	 git commit -m "message"
+Pull : git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
