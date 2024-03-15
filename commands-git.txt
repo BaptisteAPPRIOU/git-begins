@@ -1,7 +1,9 @@
 Commandes git :
-Clone : git clone + lien copié
-Push : git push
-Add : git add + dossier/ ou fichier
+Clone : git clone + lien copié			# Clone
+Push : git push					# Push le(s) fichier(s)
+Add : git add + dossier/ ou fichier		# Add le(s) fichier(s)
 Commit : git commit + fichier ou dossier/
-	 git commit -m "message"
+	 git commit -m "message"		# Commit le(s) fichier(s) + écrit le message
 Pull : git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
+Branch : git branch + nom de la branche		# Créer la branche
+	 git checkout + nom de la branche	# Switch sur la branche
